@@ -1,0 +1,15 @@
+D:\C_sharp\lesson8\DinamicArray\DinamicArray\bin\Debug\DinamicArray.exe.config
+D:\C_sharp\lesson8\DinamicArray\DinamicArray\bin\Debug\DinamicArray.exe
+D:\C_sharp\lesson8\DinamicArray\DinamicArray\bin\Debug\DinamicArray.pdb
+D:\C_sharp\lesson8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.csprojResolveAssemblyReference.cache
+D:\C_sharp\lesson8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.exe
+D:\C_sharp\lesson8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.pdb
+E:\igor_work\lesson8\DinamicArray\DinamicArray\bin\Debug\DinamicArray.exe.config
+E:\igor_work\lesson8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.exe
+E:\igor_work\lesson8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.pdb
+E:\igor_work\lesson8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.csprojResolveAssemblyReference.cache
+E:\igor_work\lesson8\DinamicArray\DinamicArray\bin\Debug\DinamicArray.exe
+E:\igor_work\lesson8\DinamicArray\DinamicArray\bin\Debug\DinamicArray.pdb
+D:\C_sharp\git8\DinamicArray\DinamicArray\bin\Debug\DinamicArray.exe.config
+D:\C_sharp\git8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.exe
+D:\C_sharp\git8\DinamicArray\DinamicArray\obj\Debug\DinamicArray.pdb
